@@ -1,6 +1,5 @@
 import pandas as pd # pandas read csv
-import numpy as np 
-import matplotlib.pyplot as plt #For PCA
+import numpy as np  #For save data to csv
 from sklearn import decomposition #For PCA
 from sklearn.svm import SVC #For SVM
 from numpy import * #For 读取行数和列数Shape
